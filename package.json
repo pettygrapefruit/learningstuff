@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pettygrapefruit/learningstuff/issues"
   },
-  "homepage": "https://github.com/pettygrapefruit/learningstuff#readme"
+  "homepage": "https://github.com/pettygrapefruit/learningstuff#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
