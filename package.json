@@ -1,0 +1,19 @@
+{
+  "name": "learningstuff",
+  "version": "1.0.0",
+  "description": "bulent ecevit ladida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pettygrapefruit/learningstuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pettygrapefruit/learningstuff/issues"
+  },
+  "homepage": "https://github.com/pettygrapefruit/learningstuff#readme"
+}
